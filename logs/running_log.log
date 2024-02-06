@@ -646,3 +646,16 @@ x==========x]
 [2024-02-05 19:17:03,240: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
 
 x==========x]
+[2024-02-05 22:32:55,135: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.10.2:8080]
+[2024-02-05 22:32:55,135: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-02-05 22:34:54,083: INFO: _internal: 172.20.10.2 - - [05/Feb/2024 22:34:54] "GET / HTTP/1.1" 200 -]
+[2024-02-05 22:34:54,104: INFO: _internal: 172.20.10.2 - - [05/Feb/2024 22:34:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2024-02-05 22:35:00,690: INFO: _internal: 172.20.10.2 - - [05/Feb/2024 22:35:00] "GET / HTTP/1.1" 200 -]
+[2024-02-05 22:35:11,358: INFO: _internal: 127.0.0.1 - - [05/Feb/2024 22:35:11] "GET / HTTP/1.1" 200 -]
+[2024-02-05 22:35:11,385: INFO: _internal: 127.0.0.1 - - [05/Feb/2024 22:35:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2024-02-05 22:35:17,127: INFO: _internal: 127.0.0.1 - - [05/Feb/2024 22:35:17] "GET / HTTP/1.1" 200 -]
+[2024-02-05 22:35:36,022: INFO: _internal: 127.0.0.1 - - [05/Feb/2024 22:35:36] "GET / HTTP/1.1" 200 -]
+[2024-02-05 22:35:38,667: INFO: _internal: 127.0.0.1 - - [05/Feb/2024 22:35:38] "GET / HTTP/1.1" 200 -]
